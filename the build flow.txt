@@ -1,0 +1,7 @@
+the buildflow for git..
+1.create a new branch from master branch.
+2.edit the files.
+3.add commits.
+4.open a pull request.
+5.Discuss and review your code.
+6.merge(generally done by master branch approver.)
